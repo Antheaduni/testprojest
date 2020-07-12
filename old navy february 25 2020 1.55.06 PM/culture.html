@@ -1,0 +1,296 @@
+<!doctype html>
+<html>
+    <link rel="stylesheet" type="text/css" href="olways.css">
+    <title>olways</title>
+    <body>
+        <section class="container clearfix" >
+            <div class="navigation">
+        <ul>
+            <li><a href="Login.html">log in</a></li>
+            <li><a href="contact.html">Contact</a></li>
+            <li><a href="b2log.html">block</a></li>
+            <li><a href="travel.html"> Travel </a></li>
+            <li><a href="news.html">News & Media</a></li>
+            <li><a href="about.html">About us</a></li>
+            
+        </ul>
+            </div>
+        </section>
+        <section class="container clearfix ">
+            <div class="newsection">
+                <h3> rediacover
+                <img src="images/clover.jpeg" alt="this is clover">
+                goodness</h3>
+                <h1> olways </h1>
+                <h3>cultural food traditions</h3>
+            </div>
+            <div class="nextsection">
+                <h4> A Food Nutrition Nonprofit<br>
+                    helping people Healthies, Happier Lives</h4>
+            </div>
+        </section>
+        <section class="container clearfix">
+        <div class="next">
+            <ul>
+                <li><a>TRADITIONAL DIETS</a>
+                    <ul>
+                              <li><a>Why Traditional diets?</a></li>
+                              <li><a>Mediterian Diet</a></li>
+                              <li><a>African heritage Diet</a></li>
+                              <li><a>Latin American Diet</a></li>
+                                <li><a> Asian Heritage Diet </a></li>
+                                <li><a> Vegeterian &amp; Vegan Diet </a></li>
+                        
+                          </ul>
+                
+                </li>
+                
+                  <li><a>Recipies</a>
+                      <ul>
+                          <li><a>Main Dish</a></li>
+                          <li><a>Salads</a></li>
+                          <li><a>Soups &amp; Apetazers</a></li>
+                          <li><a>Bread</a></li>
+                          <li><a>Side Dish</a></li>
+                          <li><a>Desserts</a></li>
+                          <li><a>Dip &and;souce</a></li>
+                      </ul>
+                </li>
+                  <li><a>Resource </a>
+                        <ul>
+                               <li><a>Getting Started + basic for Vegeterian </a></li>
+                                <li><a>Gooks& books</a></li>
+                                <li><a>Shearch All Resources </a></li>
+                                <li><a>Oldways Menue Plan books</a></li>
+                                <li><a>Eating Well- Experts Agree</a></li>
+                                 <li><a>Grarb Qualities Matter</a></li>
+                                 <li><a>Vegtoberfets In october</a></li>
+                                 <li><a>Quiz: which Plant Food are you? </a></li>
+                                 <li><a>Aldways vegetertian advisors</a></li>
+                      </ul>
+                </li>
+                  <li><a>Healthy Studies</a>
+    
+                </li>
+                  <li><a>Programs</a>
+                          <ul>
+                                  <li><a> Cullinary travel</a></li>
+                                    <li><a> Meditarian program</a></li>
+                                    <li><a> whole Grains concil</a></li>
+                                      <li><a> African Herritage &amp;health</a></li>
+                                        <li><a> Aldways cheese coalition</a></li>
+                                        <li><a> Pland forwards plates</a></li>
+
+                          </ul>
+                </li>
+                <li><a>Shops</a>
+                <ul>
+                       <li><a> Oldways store</a></li>
+                       <li><a> Favorite books</a></li>
+                    
+                    </ul>
+                
+                </li>
+            </ul>
+           </div>
+        </section>
+        <section class="slideman">
+        <div class="slideshow-container">
+
+<div class="mySlides fade">
+  <div class="numbertext">1 / 3</div>
+  <img src="images/meditariancookbook.jpeg" style="width:100%">
+  <div class="text">Caption Text</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">2 / 3</div>
+  <img src="images/wholegranes.jpeg" style="width:100%">
+  <div class="text">Caption Two</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">3 / 3</div>
+  <img src="images/familycooking.jpeg" style="width:100%">
+  <div class="text">Caption Three</div>
+</div>
+
+<a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+<a class="nexttwo" onclick="plusSlides(1)">&#10095;</a>
+
+</div>
+<br>
+
+<div style="text-align:center">
+  <span class="dot" onclick="currentSlide(1)"></span> 
+  <span class="dot" onclick="currentSlide(2)"></span> 
+  <span class="dot" onclick="currentSlide(3)"></span> 
+</div>
+
+<script>
+var slideIndex = 1;
+showSlides(slideIndex);
+
+function plusSlides(n) {
+  showSlides(slideIndex += n);
+}
+
+function currentSlide(n) {
+  showSlides(slideIndex = n);
+}
+
+function showSlides(n) {
+  var i;
+  var slides = document.getElementsByClassName("mySlides");
+  var dots = document.getElementsByClassName("dot");
+  if (n > slides.length) {slideIndex = 1}    
+  if (n < 1) {slideIndex = slides.length}
+  for (i = 0; i < slides.length; i++) {
+      slides[i].style.display = "none";  
+  }
+  for (i = 0; i < dots.length; i++) {
+      dots[i].className = dots[i].className.replace(" active", "");
+  }
+  slides[slideIndex-1].style.display = "block";  
+  dots[slideIndex-1].className += " active";
+}
+</script>
+        </section>
+
+        <section class="morecolor">
+<div class="tab">
+  <button class="tablinks" onclick="openCity(event, 'London')">MEDITERRANEAN DIET
+    </button>
+  <button class="tablinks" onclick="openCity(event, 'Paris')">AFRICAN HERITAGE DIET</button>
+  <button class="tablinks" onclick="openCity(event, 'Tokyo')">LATIN AMERICAN HERITAGE DIET</button>
+     <button class="tablinks" onclick="openCity(event, 'Tokyo')">ASIAN HERITAGE DIET</button>
+</div>
+
+<div id="London" class="tabcontent">
+  <h3 class="title">MEDITERRANEAN DIET</h3>
+  <p class="paris">The Mediterranean Diet reﬂects a way of eating that is traditional in the countries that surround the Mediterranean, but you don’t need to travel any further than your local...</p>
+</div>
+
+<div id="Paris" class="tabcontent">
+  <h3 class="title">AFRICAN HERITAGE DIET</h3>
+  <p class="paris">The African Heritage Diet is a way of eating based on the healthy food traditions of people with African roots. This healthy way of eating is powerfully nutritious and delicious, and naturally meets the guidelines experts recommend for supporting good health..</p> 
+</div>
+
+<div id="Tokyo" class="tabcontent">
+  <h3 class="title">LATIN AMERICAN HERITAGE DIET</h3>
+  <p class="paris">The Latin American Diet Pyramid preserves and rivitalizes centuries-old traditions and tastes. Whether you are living in Latin America, of Latin descent but living elsewhere, or whether you simply enjoy the vibrant tastes of Latin culinary traditions, we’ll help you learn about the foods....</p>
+</div>
+ <div id="Tokyo" class="tabcontent">
+  <h3 class="title">ASIAN HERITAGE DIET</h3>
+  <p class="paris">Asian diets are as varied as the Asian continent is large. Although each Asian country and region has its distinct ﬂavors and cooking styles, there are many unifying characteristics, such as high consumption of plant foods, including vegetables, fruits, beans, legumes, nuts, herbs and...</p>
+</div>
+
+<script>
+function openCity(evt, cityName) {
+  var i, tabcontent, tablinks;
+  tabcontent = document.getElementsByClassName("tabcontent");
+  for (i = 0; i < tabcontent.length; i++) {
+    tabcontent[i].style.display = "none";
+  }
+  tablinks = document.getElementsByClassName("tablinks");
+  for (i = 0; i < tablinks.length; i++) {
+    tablinks[i].className = tablinks[i].className.replace(" active", "");
+  }
+  document.getElementById(cityName).style.display = "block";
+  evt.currentTarget.className += " active";
+}
+        </script>
+        </section>
+<section>
+    <p class="comon">Common sense + good food + time-honored traditions =</p>
+
+    <p class="healthyeating">HEALTHY EATING MADE DELICIOUS</p>
+        <section class="container clearfix">
+    <img src="images/brocoli.jpeg" alt="there is brocoli with pink background" class="brolcoli">
+    <img src="images/roads.jpeg" alt="there is brocoli with pink background" class="brolcoli">
+    <img src="images/cook.jpeg" alt="there is brocoli with pink background" class="brolcoli">
+    <img src="images/travel.jpeg" alt="there is brocoli with pink background" class="brolcoli">      
+    </section>
+    <section>
+        <section class="newcolo">
+         <p class="healthyeating">WHAT'S NEW AT OLDWAYS</p>
+
+    <section class="container clearfix" >
+         <div class="newpict" >
+             <p>APRIL 07, 2020</p>
+      <img src="images/onions%20.png" alt="their is isa choop onnions and carrots" class="cyprus">
+    <p class="cyprustwo">NO FOOD WASTE: ROOT-TO-LEAF MEDITERRANEAN COOKING</p>
+             <p>Throughout history, no-waste cooking has been a vital way of life—and it feels particularly relevant now, as we practice social distancing, limit our...</p>
+                </div>
+        <div class="newpict" >
+            <p>APRIL 06, 2020</p>
+      <img src="images/green.png" alt="their is a book that its says about the diet that we need to have  "class="cyprus">
+    <p class="cyprustwo">HOW THE WHOLE GRAIN STAMP CAN HELP YOU BECOME A CONSCIOUS EATER</p>
+            <p>Sometimes, it feels like there are more questions than answers about healthy eating. But in her new book, How to Be a Conscious Eater , Sophie Egan...</p>
+                </div>
+        <div class="newpict" >
+            <p>MARCH 23, 2020</p>
+      <img src="images/fwetw.png" alt="their is a olive oil in the white bootle "class="cyprus">
+    <p class="cyprustwo">CHICKPEAS. OLIVE OIL. SPICE. CREATE SOMETHING NEW FOR THE #OLDWAYSPANTRYCHALLENGE</p>
+            <p>It’s time to get thrifty! What can you make with chickpeas, olive oil, and a spice from your pantry? When grocery store shelves are limited and we...</p>
+                </div>
+    </section>
+        </section>
+        </section>
+   <p class="healtreceueie">RECIPES</p>
+             <p class="you">After you feast on our information, feast on a recipe!</p>
+    </section>
+
+<section class="container clearfix">
+<div class="ren">
+  <img src="images/chickpea.jpeg" alt="Nature" class="nature">
+  <div class="text-block">
+<!--    <p class="beautiful">What a beautiful sunrise</p>-->
+      <p class="beautiful"><a href="italian.html"> BURRITO BOWLS WITH CHICKEN</a></p>
+  </div>
+</div>
+       <div class="ren">
+  <img src="images/coconut.jpeg" alt="Nature" class="nature">
+  <div class="text-block">
+<!--    <p class="beautiful">What a beautiful sunrise</p>-->
+      <p class="beautiful"><a href="chana.html"> FIESTA QUINOA SALAD</a></p>
+  </div>
+</div>
+           <div class="ren">
+  <img src="images/beans.jpeg" alt="Nature" class="nature">
+  <div class="text-block">
+<!--    <p class="beautiful">What a beautiful sunrise</p>-->
+      <p class="beautiful"><a href="chana.html"> FIESTA QUINOA SALAD</a></p>
+  </div>
+</div>
+        </section>
+    <section>
+        <p class="see"> SEE MORE RECEIPIES</p>
+        </section>
+         <section class="color">
+            <section class="conatiner clearfix">
+                <div class="last">
+                        <div class="rome">
+              <h5> Contact us </h5>
+                    <p class="beacon">Olways</p>
+                    <p class="beacon">266 Beacon Street Suite 1 <br>
+                    Boston , MA 02116</p>
+                    <p class="beacon"> TEL 617-421-5500</p>
+                    <p class="beacon">FAX 617-421-5511</p>
+                                <a href="mailto:info@oldwaysspt.org">info@oldwaysspt.org</a>
+                                
+                        </div>
+                 <div class="rome2">
+              <h5> Follow us  </h5>
+                </div>
+                 <div class="rome">
+              <h5> Subscribe</h5>
+                     <p class="lastparagrph"> Get health information , news,& recipes via our program newsletters</p>
+                     <a href="subscribe">Subscribe</a>
+                        </div>
+                    <div>
+                    </div>
+                </div>
+            </section>
+    
+        </section>      

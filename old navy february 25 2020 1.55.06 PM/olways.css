@@ -1,0 +1,4613 @@
+@import url('https://fonts.googlepis.com/css?family=Lato|Open+Sans|Passion+One|Poppins|Roboto&display=swap');
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+body{
+margin:0;
+    padding: 0;
+}
+.container{
+    width:1200px;
+    margin:15px auto;
+}
+
+
+.clearfix:after{
+  content: "";
+  display: table;
+  clear: both;
+}
+/*this is a page of about */
+.navigation li {
+    float: right;
+/*    padding-right: 8px;*/
+    text-transform: uppercase;
+    
+}
+.titlesecont{
+    color: white;
+    margin-left:20px;
+}
+ul ol  a {
+    float:right;
+   list-style-type: none;
+    font-size: 16px;
+    font-family:sans-serif;
+    color:black;
+    
+}
+a{
+    margin-top: 20px;
+    float: left;
+    text-transform: uppercase;
+    font-size: 10px;
+}
+img{
+    width: 40px;
+
+}
+h1{
+    text-transform: uppercase;
+    width: 20%;
+    font-size: 70px;
+    margin-top: 10px;
+     margin-bottom: 10px;
+    color:#043927;
+}
+.newsection{
+    float: left;
+    margin-left:50px;
+    margin-right: 20px;
+    margin-top: 1px;
+    margin-bottom: 10px;
+    
+    
+}
+
+h4{
+    float:left;
+    margin-left: 10px; 
+    margin-top: 7%;
+    font-size: 20px;
+    color:#414141;
+    
+}
+h3{
+    margin-bottom: 1px;
+    margin-top: 0px;
+}
+.next{
+    float: left;
+    background-color: #763568;
+    width: 100%;
+    height:74px;
+    color: white;
+
+ 
+}
+.next a{
+    color: white;
+    background-color:#763568;
+    margin-left: 20px;
+    margin-top: 20px;
+    text-transform: uppercase;
+}
+a{
+    float: left;
+/*    margin-right: 40px; */
+    text-transform: uppercase;
+     list-style: none;
+    color:black ;
+    font-family: sans-serif;
+    text-decoration: none;
+   
+}
+.white{
+   
+    font-family: sans-serif;
+    text-transform: uppercase;
+    background-color:#f4efd3;
+    height: 120px;
+}
+h2{
+    margin-left: 20%;
+    color: purple;
+    
+    
+}
+.dates{
+     margin-left: 20%;
+    color: purple;
+font-family: 'Roboto', sans-serif;
+}
+h5{
+    color: purple;
+    font-size: 20px;
+    width: 50%;
+    margin-bottom: 6px;
+}
+.past{
+    text-transform: uppercase;
+    background: #413c69;
+    width: 290px;
+    color: white;
+     font-family: sans-serif;
+    
+}
+.places{
+    float:left;
+
+    margin-right:24%;
+    color: blueviolet;
+}
+.nice{
+    float: left;
+    
+}
+.nice a{
+    float: left;
+    padding: left;
+    margin-left: 20px;
+    color:purple;
+}
+.try{
+    float:left;
+    margin-left:5%;
+    margin-right:1%;
+    color: red;
+}
+.try a{
+    margin-right:20%;
+    color: purple;
+}
+
+
+a:hover{
+background-color: beige;
+/*text-transform: uppercase;*/
+/*    font-family: 20px;*/
+  
+}
+ a:visited:{
+    color:orange;
+    text-decoration: none;
+}
+.ble a{
+    margin-top: 1px;
+    margin-bottom: 1px;
+    color: orange;
+}
+.ble a active{
+    color: blue;
+    
+}
+.venice{
+    float: left;
+  margin-top: 50px;
+}
+.image1{
+    width:59%;
+    margin-left:40px;
+    
+}
+.fistparagrapgh{
+    text-transform: uppercase;
+    color: purple;
+    font-size: 30px;
+    margin-left:30%;
+    font-family: 'Poppins', sans-serif; 
+}
+.sunday{
+    text-transform: uppercase;
+    color:#4a47a3;
+    font-family: 'Poppins', sans-serif; 
+    margin-left: 30%;
+    margin-top: 5%;
+}
+.image2{
+    float: left;
+    margin-left: 30%;
+    width: 50%;
+}
+.arival{
+    margin-left:30%;
+    font-size:18px;
+}
+.morning{
+    
+}
+.image3{
+    margin-left:25%;
+     width: 50%;
+}
+.image4{
+     margin-left:25%;
+     width: 50%;
+}
+.text{
+   
+    margin-left: 25%;
+}
+.orange{
+    color: orange;
+
+}
+
+.something{
+    float: left;
+    margin-left:10%;
+}
+.last{
+    float: left;
+    margin-left: 10%;
+/*    margin-right: 10px;*/
+    width: 78%;
+}
+.inside{
+    margin-top: 0;
+    margin-left: 24px;
+}
+
+.color{
+    background-color: brown;
+    
+}
+h5{
+    margin:left;
+    color: white;
+    margin-left: 60px;
+    margin-top: 10px;
+    width: 60%;
+    text-transform: uppercase;
+}
+ol{
+    margin:left;
+    color:white;
+/*    width: 20%;*/
+}
+.rome{
+  float: left;
+    margin-left:8%;
+    margin-right:10px;
+    width: 20%;
+    
+}
+.rome2{
+    float: left;
+    margin-left:2%;
+    margin-right:10px;
+    width: 20%;
+    
+}
+.lastparagrph{
+    color: white;
+
+}
+/*
+a{
+    margin-top: 20px;
+    float: left;
+    text-transform: uppercase;
+    font-size: 10px;
+}
+*/
+.image5{
+    width:100%;
+}
+.grey{
+    background-color: lightslategray;
+    height:230px;
+
+     
+}
+.litletitle{
+    font-size: 20px;
+    margin-left:20px;
+    color: white;
+    text-transform: uppercase;
+      font-family: 'Poppins', sans-serif; 
+    
+}
+
+.oldways{
+    margin-left: 20px;
+    color:white;
+    font-family: sans-serif; 
+}
+.home {
+    padding:20px;
+    margin-left: 20px;
+    font-size: 16px;
+    margin-top:20px;
+  
+}
+.manifesto{
+     font-size: 17px;
+    margin-left:60px;
+    text-transform: uppercase;
+    color:purple;
+}
+.about{
+    margin-left: 30%;
+    font-size: 20px;
+    
+}
+.rem{
+    background-color: red;
+}
+/*
+.row{
+    float: left;
+}
+*/
+.link{
+    background-color: red;
+}
+.link a{
+      background-color: red;
+}
+.food{
+    margin-left: 10%;
+}
+.new a{
+    margin-left: 1px;
+   color: orange;
+}
+.newpagraph{
+    margin-left:30%;
+}
+.newparagraph2{
+     margin-left:25%;
+}
+
+.bigpicture{
+    background: url(images/trees.jpeg);
+     background-size: cover;
+    background-position: center;
+    height:737px;
+/*    margin-left: 2%;*/
+}
+.secondpicture{
+     background: url(images/fruits.jpeg);
+     background-size: cover;
+    background-position: center;
+    height:737px;
+}
+.thirdpicture{
+    background: url(images/bottle.jpeg);
+     background-size: cover;
+    background-position: center;
+    height:737px;
+}
+.forth{
+      background: url(images/sunflower.jpeg);
+     background-size: cover;
+    background-position: center;
+    height:737px;
+    
+}
+ul{
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+}
+ul li{
+    float:left;
+    width: 200px;
+    height:40px;
+/*    background-color: black;*/
+    opacity:.8;
+    line-height: 40px;
+    text-align: center;
+    font-size: 10px;  
+}
+ul li a{
+    float: left;
+    margin-left:320px;
+    text-decoration: none;
+    color:purple;
+    display:block;
+    width:50%;
+
+    
+}
+
+
+/*
+ul li a:hover{
+    background-color:#763568;
+    width:30px;
+}
+*/
+ul li ul li {
+    display: none;
+}
+ul li:hover ul li {
+    display:block;
+}
+.culinary{
+   color: white;
+margin-left: 30px;
+    margin-top:20px; 
+    font-family: sans-serif;
+    font-size:30px;    
+}
+.celebrate{
+     color: white;
+margin-left: 30px;
+    margin-top:10px; 
+    font-family: sans-serif;
+    font-size:20px;    
+}
+.sicily {
+    width: 40%;
+    margin-right:30px;
+}
+.travel{
+    color: purple;
+    font-size: 30px;
+}
+.click{
+    font-weight: bold;
+}
+.more{
+    background-color: beige;
+    width: 40%;
+}
+.centered {
+  position: absolute;
+    top:120%;
+    margin-left: 10%;
+    font-size:50px; 
+    color: white;
+}
+.left{
+    position: absolute;
+    top:120%;
+    margin-left: 50%;
+    font-size:50px; 
+    color: white;
+    text-transform: uppercase;
+}
+
+.container {  
+  color: black;
+}
+.march{
+  font-size:16px; 
+    color:purple;
+}
+.marchw{
+/*    color: red;*/
+    margin-left:30%;
+    margin-right: 50%;
+    
+}
+.marchs{
+    color: black;
+    margin-left:25%;
+    margin-right: 50%;
+}
+.february{
+    margin-top:20%;
+    color: purple;
+}
+.februaryseco{
+    color: purple;
+    margin-left:20%;
+}
+.februarythird{
+    color:purple;
+     margin-left:20%;
+}
+.section{
+    float:left;
+}
+.blog{
+    font-size: 30px;
+    margin-left: 20px;
+    color: white;
+    text-transform: uppercase;
+}
+.latest{
+/*    float: left;*/
+    color: purple;
+    margin-left: 30%;
+    font-size: 30px;
+}
+.blog{
+     color: purple;
+    margin-right: 10%;
+    font-size: 30px;
+}
+
+.firstdish {
+    float: left;
+ width: 350px;
+ 
+}
+.mediterian{
+   margin-top:30%;
+       float:left;
+    margin-left: 2px
+    
+}
+.one{
+    float:left;
+}
+/*
+.jars{
+    float: left;
+      width: 350px;
+  height: 310px;
+    margin-right:30px;
+}
+.heart{
+    color:purple;
+    
+*/
+/*    margin-left: 10%;*/
+/*    margin-right:46%;*/
+}
+.since{
+    color: black;
+/*
+    margin-left: 10%;
+    width:90%;
+     margin-left: 15%;
+    margin-right:46%;
+    margin-right:46%;
+*/
+}
+.new{
+    color: black;
+    margin-left: 5%;
+}
+/*
+.first{
+   float: left;
+    margin-left:%;
+    margin-right:20%;
+    width: 40%;
+    
+}
+*/
+.second{
+    float: left;
+    margin-left:3%;
+    margin-right:10px;
+    width: 30%;
+}
+.meal{
+    color: purple;
+    width: 380px;
+}
+.newsection{
+    float: left;
+    margin-left: 30px;
+      width: 361px;
+  height: 310px;
+    
+}
+.chese{
+    float: left;
+     margin-left: 10%;
+    width: 361px;
+  height: 310px;
+    
+}
+.meal{
+    float:left;
+    margin-left: 10%;
+    margin-right:10%
+}
+.scranble{
+    float: left;
+    margin-left: 10%;
+    width: 40%;
+    color: black;
+}
+.third{
+    float: left;
+}
+.februaryfourth{
+    float: left;
+    margin-left:20%;
+}
+/*
+.eggs{
+    
+    width: 90%;
+}
+.cozy{
+*/
+   
+    width:90%;
+}
+.january{
+    margin-right:70%;
+}
+.january{
+    margin-left:50%;
+}
+.nexthinh{
+   margin-left:20%;
+}
+.end{
+    
+}
+.loging{
+    color:purple;
+    text-transform: uppercase;
+    font-size: 40px;
+}
+.resources{
+    margin-left: 30%;
+   font-size: 40px;
+    color:purple;
+    
+}
+.square{
+      background-color: orange;
+float: left;
+    margin-left: 50%;
+  width: 100px;
+/*  border: 15px solid green;*/
+  padding: 30px;
+  margin: 10px;
+}
+
+.secontbox{
+/* background-color: orange;*/
+float: left;
+    margin-left: 50%;
+  width: 100px;
+/*  border: 15px solid green;*/
+  padding: 30px;
+  margin: 10px;
+}
+}
+.big{
+/*    margin-left: 20%;*/
+    text-transform: uppercase;
+      color: white;
+}
+.ready{
+    color:white;
+   width: 210px;
+  
+}
+.scuare{
+    background-color: white;
+    margin-left: 20%;
+}
+.whitese{
+   
+    color: white;
+}
+.username {
+    color:purple;
+}
+.username{
+    color:purple;
+     text-transform: uppercase;
+    font-size: 30px;
+}
+form{
+ float:left;
+    margin-left:25%;
+    width: 20px;
+}
+input{
+    width:500px;
+    height: 40px;
+    border-color:Orange ;
+}
+.write{
+    color: black;
+     font-size: 10px;
+    float: left;
+    margin-left: 29%;
+    margin-top: auto;
+}
+
+.request{
+    margin-left: 20%;
+    font-size: 20px;
+    color: orange ;
+}
+.box{
+      background-color: orange;
+    float:left;
+    margin-left: 20%;
+    width: 90px;
+    
+}
+.log{
+  margin-left:10px;
+    color: white;
+    text-transform: uppercase;
+}
+.fifth{
+         background: url("images/florida.jpeg");
+     background-size: cover;
+    background-position: center;
+    height:720px;
+}
+.general{
+    float:left;
+    margin-left: 30px;
+    color:white;
+    margin-bottom: 3%;
+}
+
+.partnership{
+    float: left;
+    color: purple;
+    text-transform: uppercase;
+}
+.house{
+    float:left;
+    margin-left:30px;
+    width: 40%;
+}
+.adress{
+      float:left;
+    margin-left:30px;
+    margin-top:90px;
+}
+.beacon{
+     margin-left:67%;
+        margin-top:4%;
+}
+.phone{
+    margin-left: 67%;
+}
+/*
+ .request{
+     margin-left: 67%;
+}
+*/
+/*
+.reg{
+   margin-left:10%; 
+}
+*/
+.things{
+    margin-left:30%;
+    background-color: beige;
+    color: purple;
+    font-size: 20px;
+}
+/*
+.down{
+    color: white;
+    font-size: 16px;
+}
+*/
+.downpicture{
+    font-size: 17px;
+    margin-right: 16%;
+    font-weight: bold;
+}
+.litletitle{
+    float: left;
+    margin-left: 50%;
+    color:red;
+
+}
+
+/*
+.litlelov{
+    float:left;
+    margin-left:60%;
+    color:orange;
+  
+}
+*/
+.litlelov   {
+    color: orange;
+    margin-left: 40%;
+    list-style-type:circle;
+    
+    
+}
+.litlenews{
+    margin-left: 30px;
+    font-size: 30px;
+    color: white;
+}
+.beacon{
+    float:left;
+    color: white;
+    margin-left:30px;
+}
+.archives{
+    float: left;
+    color: black;
+    margin-left: 20%;
+    font-size:17px;
+    text-transform: uppercase;
+}
+.months {
+     float: left;
+    margin-top: 5%;
+    margin-bottom: 6px;
+    color: purple;
+    width: 250px;
+    margin-left: 20px;
+    font-size: 15px;
+    text-transform: uppercase;
+
+}
+.months a{
+    margin-top:10%;
+    color:purple;
+    margin-left:20px;
+}
+.latest{
+/*    float:left;*/
+    color:purple;
+    margin-top: 10%;
+     text-transform: uppercase;
+}
+.image10{
+    width: 80%;
+    margin-left:2%;
+}
+.image11{
+    margin-left: 8%;
+     width: 80%;
+}
+.image12{
+    margin-top: 10%;
+      margin-left: 10%;
+     width: 30%;
+}
+.image13{
+/*      margin-top: %;*/
+      margin-left: 10%;
+     width: 25%;
+}
+.image14{
+/*     margin-left: 10%;*/
+     width: 80%;
+}
+.quiz{
+    float:left;
+   margin-left: 60%;
+    margin-bottom: 50%;
+}
+.cooking{
+    margin-left:20%;
+    color: #5B3256;
+}
+.marchthie{
+    float: left;
+    margin-top: 20%;
+    margin-left: 20%;
+    color:purple;
+}
+.mealsecond{
+     color: #5B3256;
+    text-align: 10%;
+}
+
+.downpict{
+    font-size: 17px;
+    margin-right:18%;
+}
+.play {
+    font-size: 15px;
+    color:black;
+    margin-right: 55%;
+    
+}
+.downr{
+     font-size: 15px;
+    margin-right: 50%;
+      text-transform:lowercase;
+}
+.column {
+  float: left;
+   
+  width: 33.33%;
+  padding: 10px;
+  height: 500px; /* Should be removed. Only for demonstration */
+}
+.column ol{
+    color: purple;
+     text-transform: uppercase;
+    
+}
+.columnpic{
+    float: left;
+    margin-left: 5%;
+  width: 50%;
+  padding: 10px;
+  height: 500px; /* Should be removed. Only for demonstration */
+}
+.litlesmal{
+    font-size: 18px;
+    color: purple;
+}
+.house{
+    width: 58%;
+}
+/*
+.learn li{
+    margin-top:10%
+    color: black;
+}
+*/
+.learn{
+    color:black;
+    margin-top: 6%;
+     font-size: 16px;
+}
+.learnsecont{
+    color:black;
+     font-size: 16px;
+    
+    
+}
+.learnthird {
+    margin-left: 70%;
+    color: orange;
+}
+.columntwo{
+    float: left;
+    margin-left:15%;
+    margin-top:20%;
+  width: 33.33%;
+/*  padding: 10px;*/
+/*  height: 300px;*/
+}
+/* Clear floats after the columns */
+.columnthree{
+    float: left;
+    margin-left:19%;
+    margin-top:10%;
+  width: 33.33%;
+/*  padding: 10px;*/
+/*  height: 300px;*/
+}
+.columfourth{
+    float: left;
+    margin-left:19%;
+    margin-top:10%;
+  width: 33.33%;
+}
+.columnfifth{
+    float: left;
+    margin-left:19%;
+    margin-top:10%;
+  width: 33.33%;
+}
+.columnsixth{
+     float: left;
+    margin-left:19%;
+    margin-top:10%;
+  width: 33.33%;
+    
+}
+/*
+.game{
+    float: left;
+    margin-left: 20%;
+   width: 90%;
+}
+*/
+
+.columnsecont {
+  float: left;
+    margin-left:20%;
+  width: 33.33%;
+  padding: 10px;
+  height: 500px; /* Should be removed. Only for demonstration */
+}
+
+.cozy{
+   color:purple;
+}
+/* Clear floats after the columns */
+.rowsecod:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.marchsecon{
+    float: left;
+    margin-left: 20%;
+    color: purple;
+}
+.marchfith{
+    color: purple;
+    
+}
+
+.janutweetyseven{
+    margin-top:10%;
+    margin-left: 20%;
+    color: purple;
+}
+/*this is  thw pagew of the always  in the newsolwaysone*/
+.whitepanel{
+   background-color:navajowhite;
+    height: 300px;
+}
+.homeandmedia{
+/*    float: left;*/
+    padding-top:1%;
+    margin-left: 10%;
+
+}
+.inthenews{
+    color: purple;
+    margin-left: 10%;
+    font-size: 40px;
+}
+.sinceonne{
+     margin-left: 10%;
+}
+.newsection{
+    float: left;
+}
+.marchten{
+    
+    margin-left: 30%;
+    color: purple;
+    
+}
+.baptist{
+     margin-left: 30%;
+    font-size: 25px;
+    color: purple;
+}
+.olwaysone a {
+    color: blue;
+}
+.places {
+    float: left;
+/*    width:30%;*/
+    
+}
+/*   A OFFICIAL COMMENT PAGE*/
+.run{
+    float: left;
+    margin-left: 30px;
+    margin-right: 90%;
+}
+.alley{
+   background: url(images/wesh.jpeg);
+     background-size: cover;
+    background-position: center;
+    height:450px;
+/*    margin-left: 2%;*/
+}
+.homeand{
+    margin-left:10%; 
+    color: white;
+    padding-top:10px;
+}
+.nextwhite{
+       margin-left:10%; 
+    color: white;
+    padding-top:10px;
+    font-size: 30px;
+}
+.timetotime{
+    margin-left:10%; 
+    color: white;
+    padding-top:10px;
+}
+.testthe{
+     float: left;
+    margin-bottom: 5px;
+    color: purple;
+    width: 175px;
+    margin-left: 20px;
+    text-transform: uppercase;   
+}
+.test ol a{
+    color: black;
+}
+.black{
+    margin-top:5%;
+    margin-left: 30%;
+    font-weight: bold;
+}
+.marchblack{
+     margin-left: 30%; 
+}
+.blue{
+     margin-left: 30%;
+     font-weight: bold;
+}
+/*A PAGE OF STATEMET FOR MEDIA*/
+.greyssmal{
+    padding: 10px;
+    margin-left:10%;
+}
+.boldstatement{
+    color: purple; 
+     margin-left:10%;
+    font-size: 30px;
+} 
+.blacksmall{
+    margin-left:30%;
+    margin-right:30%;
+}
+.response{
+     font-size: 30px;
+     margin-left:30%;
+    color: purple;
+}
+.onerdate{
+    margin-left:30%;
+      font-size: 16px;
+    
+}
+.disappointed{
+      margin-left:30%;
+}
+.liketrue {
+   float: left;
+    margin-left:30%;
+    width: 90%;
+    list-style-type: none;
+    
+}
+.optimisticsecont{
+    font-size: 30px;
+    margin-left: 30%;
+}
+.ran{
+    float: left;
+    margin-left: 17s%;
+}
+
+
+
+/* A PROJECT FILE*/
+.whitecolor{
+    background-color: antiquewhite;
+    height: 200px;
+}
+.inttitle{
+    margin-left:10%;
+    font-weight: bold;
+    color:purple;    
+}
+.april{
+     margin-left:10%;  
+    color:purple;   
+}
+.bold{
+    margin-left:10%;  
+    color:purple;   
+    font-weight: bold;
+}
+.cities{
+    float: left;
+    margin-top: 5%;
+    margin-bottom: 6px;
+    color: purple;
+    width: 260px;
+    margin-left: 20px;
+    font-size: 15px;
+    text-transform: uppercase;
+
+}
+.cities a{
+    margin-top:10%;
+    color:purple;
+    margin-left:10px;
+}
+/*
+.memories{
+    float:left;
+    width:20%;
+  margin-left:10%;
+    margin-top: 6%;
+
+}
+*/
+.pictures{
+    float:left;
+}
+.pctone{
+    margin-left:20%;
+    width: 700px;
+}
+.lonetwo{
+    float: left;
+    width: 50%;
+}
+.onthistrip{
+    margin-left:20%;
+/*    margin-right: 90%;*/
+    color: purple;
+    font-size: 20px;
+    
+}
+.apriltweety{
+       margin-left:20%;
+    color: purple;
+ 
+}
+.bullets {
+    margin-left:20%;
+    list-style-type:circle;
+}
+/* A PAGE FORM OF PERMISON AND PRINTS */
+ .permision{
+        margin-left:10%;
+        color: purple;
+        font-size: 30px;
+    }
+.educator{
+    margin-left: 26%;
+}
+.recipies{
+    color:orange;
+    font-size: 10px;
+}
+.graphic{
+    color: purple;
+    font-weight: bold;
+    
+}
+.ifyou{
+        font-weight: bold;
+   
+}
+.first{
+ font-weight: bold;
+}
+.seconcd{
+    margin-left: 24%;
+}
+.third{
+     font-weight: bold;
+    margin-left: 23%;
+}
+.order{
+     margin-left: 21%;
+}
+.use{
+    color: purple;
+     margin-left: 21%;
+    font-size: 20px;
+     font-weight: bold;
+}
+.modification{
+    margin-left: 21%;
+   
+}
+.modifivation{
+      font-weight: bold;
+}
+.news{
+    color: orange;
+     margin-left: 23%;
+}
+.meterials{
+      margin-left: 21%;
+}
+/* the file for the recipies */
+.looking{
+    margin-top: 70px;
+    margin-left: 20%;
+}
+.posted{
+    margin-left: 20%;
+}
+.sectionsecont{
+    float: left;
+      margin-left: 14%;
+/*    margin-right: 2%*/
+}
+.failfall{
+    
+     margin-left: 20%;
+    margin-right:105
+    color: purple;
+}
+.lemon{
+    margin-left: 20%;
+     width: 20%;
+}
+.manhantane{
+    margin-left:10%;
+    margin-right:10%;
+}
+.meatball{
+    margin-left: 3%;
+     width: 13%;
+}
+/* A PAGE OF SPEAKER */
+.yelowlady{
+    float: left;
+    margin-top: 10px;
+    margin-right:5%;
+    width:21%;
+}
+.presisten{
+    margin-left:23%;
+}
+.health{
+   
+    margin-left:23%;
+    color: purple;
+    font-weight: bold;
+    font-size: 20px;
+    
+}
+.pyramids{
+    margin-left:23%;
+     font-weight: bold;
+}
+.althought{
+     margin-left:23%;
+}
+/*THE SITE OF GALLERIES*/
+.welcome{
+    margin-left:10%;
+}
+.cyprus{
+/*    float:left;*/
+    width:20%;
+    margin-right:5%;
+}
+.newpictures{
+    float: left; 
+    margin-right: 1px;
+ width:77%;
+}
+. love{
+
+    float: left;
+}
+    
+.columnone {
+  float: left;
+  width:24%;
+/*  padding: 10px;*/
+/*  height: 500px;  Should be removed. Only for demonstration */
+}
+.columnone ol{
+    color: purple;
+     text-transform: uppercase;
+    
+}
+.cypon{
+    width:80%;
+}
+/*
+.cyprus{
+    width: 80%;
+}
+*/
+.cyprustwo{
+    color: purple;
+}
+.columtwo{
+    float: left;
+    margin-left: 23%;
+  width:24%;
+  padding: 10px;
+/*  height: 500px; */
+}
+.columthree{
+      float: left;
+/*    margin-left: 23%;*/
+  width:24%;
+  padding: 10px;
+/*  height: 500px; */
+}
+.columfour{
+    float: left;
+    margin-left: 23%;
+  width:24%;
+  padding: 10px;
+/*  height: 500px; */
+}
+
+/* to do the Media kit page */
+.aboutolways{
+    color: purple;
+    font-size: 30px;
+    
+}
+.olsways{
+    color: black;
+      font-weight: bold;
+    
+}
+.therapietic{
+      margin-left: 30%;
+    
+}
+.provide{
+    margin-left: 2%;
+}
+.culinaries{
+    margin-left: 28%;
+    font-weight: bold;
+}
+.howoldways{
+     margin-left: 30%;
+    color:purple;
+    font-size: 26px;
+}
+.here{
+      margin-left: 30%;
+    font-weight: bold;   
+}
+.none{
+      margin-left: 30%;
+    list-style-type: circle;
+}
+.meditarian{
+     margin-left: 30%;
+    list-style-type:circle;
+}
+.lookingfor{
+   margin-left: 30%;
+}
+.anothermail{
+      margin-left: 22%;
+}
+.stule{
+     list-style-type: circle;
+}
+.plantForward {
+       margin-left: 26%;
+}
+/* A PAGE OF APRIL */
+.newsd{
+    float: left;
+    margin-top: 1%;
+}
+.apriltwete{
+    margin-top: 10px;
+    color: purple;
+    font-size: 30px;
+}
+.howto{
+    width:40%;
+}
+.grain{
+    color:purple;
+/*    margin-right: 30%;*/
+}
+.sometimes{
+    float: left;
+/*    margin-left:10%;*/
+}
+.more3{
+    margin-left:25%;
+}
+.columngive {
+  float: left;
+    margin-right: 90px;
+
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.oil{
+    margin-top:20px;
+    width:90%;
+}
+.chick{
+    font-size: 16px;
+    color: purple
+}
+.secnr{
+    width:258px;
+}
+/* FEBRUARY SITE*/
+.februarytwenty{
+      font-size: 26px;
+}
+.chicktw{
+    widows: 30px;
+}
+.febebe{
+    margin-top:40px;
+    color: purple;
+}
+.newweww{
+    float: left;
+    margin-left: 20%;
+}
+.columngivetwo{
+    float: left;
+    margin-left: 23%;
+}
+.cesontsdjf{
+    float: left;
+    margin-left: 23%;
+}
+.columnagainagain {
+  float: left;
+  width: 33.33%;
+  padding: 10px;
+  height: 300px; /* Should be removed. Only for demonstration */
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+/* A PAGE OF MANIFESTO*/
+.ourmanifestor{
+    font-size:30px;
+    color:white;
+    margin-left:22px;
+    
+}
+.embrace{
+    font-weight: bold;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.heritage{
+    margin-left: 20%;
+    margin-right: 15%;
+}
+.small{
+/*    font-weight: bold;*/
+    font-size: 13px;
+}
+.lettuce{
+     background: url(images/letuce.jpg);
+     background-size: cover;
+    background-position: center;
+    height:737px;
+}
+/* A PAGE OF HISTORY FOUNDER */
+.dun{
+     background: url(images/kdun.jpeg);
+     background-size: cover;
+    background-position: center;
+    height:737px;
+}
+.gilford{
+    margin-top:2%;
+    margin-left:20%;
+    
+}
+.inspiration{
+    margin-left:20%;
+    background-color: beige;
+    
+}
+.changing{
+    margin-left:20%;
+    font-weight: bold;
+    
+}
+
+.collapsible {
+  background-color: beige;
+  color: black;
+  cursor: pointer;
+  padding: 18px;
+  width: 80%;
+  border-style:solid black;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+     margin-left: 20%;
+    margin-right: 300px;
+}
+
+/*
+.active, .collapsible:hover {
+  background-color: beige;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+*/
+
+.content {
+  padding: 0 18px;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+  background-color: #f1f1f1;
+    margin-left:20%;
+}
+.ritze{
+    font-weight: bold;
+}
+.changing{
+        margin-left: 20%;
+       font-weight: bold;
+}
+.excerpt{
+     margin-left: 20%;
+}
+.nred {
+     margin-left: 20%;
+}
+/
+.sfa a{
+    float:left;
+     margin-left: 20%;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover, .next:hover {
+  background-color: rgba(0,0,0,0.8);
+}
+
+/* Caption text */
+.text {
+  color: #f2f2f2;
+  font-size: 15px;
+  padding: 8px 12px;
+  position: absolute;
+  bottom: 8px;
+  width: 100%;
+  text-align: center;
+}
+.slideman{
+    top: 20%;
+    color: purple;
+}
+/* Number text (1/3 etc) 
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+
+/* The dots/bullets/indicators */
+.dot {
+  cursor: pointer;
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active, .dot:hover {
+  background-color: #717171;
+}
+
+
+/* Style the tab */
+.tab {
+  overflow: hidden;
+  border: 1px solid #ccc;
+  background-color: #f1f1f1;
+}
+
+/* Style the buttons inside the tab */
+.tab button {
+  background-color: orange;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  transition: 0.3s;
+  font-size: 17px;
+}
+
+/* Change background color of buttons on hover */
+.tab button:hover {
+  background-color: #ddd;
+}
+
+/* Create an active/current tablink class */
+.tab button.active {
+  background-color: white;
+}
+
+/* Style the tab content */
+.tabcontent {
+  display: none;
+  padding: 7px;
+  border: 1px solid #ccc;
+  border-top: none;
+}
+.paris{
+    margin-left: 20%;
+    margin-right:20%;
+/*    width:80px;*/
+}
+.title{
+    margin-left: 20%;
+}
+
+.morecolor{
+    background-color:beige;
+}
+.comon{
+    margin-left: 30%;
+    color: black;
+    font-size: 20px;
+    
+}
+.newcolo{
+    background-color: beige;
+}
+.healthyeating{
+    margin-left: 25%;
+    color: purple;
+    font-size:40px;
+    text-transform: uppercase;
+    
+}
+.brolcoli {
+    float:left;
+    margin-left: 50px;
+     border-radius: 60%;
+    width:200px;
+} 
+.newpict{
+    float: left;
+   margin-left:20px;
+  width:24%;
+  padding: 10px;
+}
+.you{
+    text-transform: uppercase;
+    margin-left:30%;
+}
+.newpictxfds{
+    float: left;
+   margin-left:20px;
+  width:24%;
+}
+.shakshuka{
+    width: 40%;
+}
+.text-block {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+/*  background-color: black;*/
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.healtreceueie{
+     margin-left:40%;
+    color: purple;
+    font-size: 30px;
+    
+}
+.see{
+    margin-left:40%;
+    margin-right: 40%;
+    color:white;
+    background-color:  orange; 
+}
+.chickpea{
+       width:100%;
+    margin-right:5%;
+}
+/*
+.text-block {
+  position: absolute;
+  bottom:40px;
+  right: 80%;
+  background-color: black;
+  color: white;
+}
+*/
+
+
+.ren {
+    float:left;
+  position: relative;
+  font-family: Arial;
+}
+
+.text-block {
+  position: absolute;
+  bottom:40px;
+  right: 80%;
+/*  background-color: black;*/
+  color: white;
+    width:40%;
+
+
+}
+.nature{
+    width:90%;
+}
+.beautiful{
+    margin-top:30%;
+    margin-left: 100%;
+    color:black;
+  }
+
+
+/* A PEGE OF ALWAYS TIMELINE*/
+
+.collapsibletwp{
+  background-color: wheat;
+  color: purple;
+  cursor: pointer;
+  padding: 18px;
+  width: 70%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+}
+
+.contentr {
+  padding: 0 1px;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+/*  background-color: wheat;*/
+}
+.active, .collapsibletwp:hover {
+  background-color: wheat;
+}
+.year{
+     margin-left: 5%;
+    font-weight: bold;
+}
+.fewwords{
+    
+    margin-left: 5%;
+}
+/*this is a page for staff*/
+.staffpick {
+  float: left;
+  width: 20%;
+  padding: 10px;
+  height: 300px; /* Should be removed. Only for demonstration */
+}
+
+/* Clear floats after the columns */
+.staffpictures:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.firstpicture{
+    float:left;
+    margin-left: 5%;
+    width:90%;
+}
+.sara{
+     margin-left: 5%;
+    color:grey;
+}
+.secondstaff{
+     margin-left: 25%;
+}
+.secontpicture{
+     float:left;
+    margin-left: 90%;
+    width:90%;
+}
+.thirscolumn {
+  float: left;
+    margin-left: 10%;
+  width: 20%;
+/*  padding: 10px;*/
+ height: 300px;  
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.row{
+/*    float: left;*/
+    margin-left:7%;
+/*    width: 20%;*/
+}
+.secondpictures{
+       float:left;
+    margin-left: 5%;
+    width:90%;
+}
+
+
+
+
+
+
+/* fish A PAGE WITH COCONAN FISH */
+.borito{
+    float:left;
+    width: 46%;
+}
+.whitetex{
+    padding-top:17%;
+    margin-left:20%;
+    margin-top: 20px;
+}
+.backgroundblack{
+    margin-left: 46%;
+    background-color:#191970;
+    height:551px;
+    color: white;
+}
+.thisreceipe{
+    padding-top:17%;
+    margin-left: 10%;
+    margin-right: 10%
+}
+.smalleter{
+    font-family: 1px;
+     margin-left: 10%;
+    margin-right: 10%
+}
+.neworange{ 
+    background-color: orange;
+}
+.rating{
+    float:left;
+    color:white;
+    margin-bottom: 1px;
+    margin-left: 30px;
+     margin-right: 84%;
+}
+.love{
+    float:left;
+     color:black;
+    margin-left: 30px;
+     margin-right: 84%;
+}
+.oranli {
+  float: left;
+  width: 16%;
+  padding: 10px;
+    background-color: orange;
+  height: 150px; /* Should be removed. Only for demonstration */
+}
+
+.oranlid{
+    float: left;
+  width: 50%;
+  padding: 19px;
+    background-color: orange;
+  height: 150px; /* Should be removed. Only for demonstration */
+}
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.litleingridien{
+    float:left;
+/*    margin-left: 40%;*/
+    color: purple;
+    margin-right: 59%;
+}
+.smallims{
+    
+      margin-right: 40%;
+}
+.ingridients {
+
+  float: left;
+  width: 30%;
+  padding: 10px;
+  height: 900px; /* Should be removed. Only for demonstration */
+}
+.ingridientssecon{
+    float: left;
+  width: 65%;
+  padding: 10px;
+  height: 900px; /* Should be removed. Only for demonstration */
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.taste{
+
+    color:purple;
+    margin-left: 40%;
+}
+.lois{
+     margin-left: 10%;
+}
+.coloor{
+   background-color:  bisque;
+    
+}
+
+.marchthri{
+      margin-left: 10%;
+}
+.real{
+    margin-left: 10%;
+    margin-right:10%;
+}
+.replyone{
+     margin-left: 10%;
+}
+hr.horizontal{
+    width: 30%;
+    
+}
+.reviewreceipe{
+    margin-left: 30%;
+    color:purple;
+}
+.ratingone{
+     margin-left: 30%;
+    color:purple;
+    font-size: 10%;
+}
+.oredertrat{
+      margin-left: 30%;
+     font-size: 16px;
+    color: purple;
+}
+/*
+.row{
+     margin-left: 30%;
+}
+*/
+.rowsecone{
+     margin-left: 5%;
+}
+.comentone{
+  margin-left: 30%;
+ 
+    color: purple;
+}
+textarea{ 
+    width: 700px;
+/*width: 10%;*/
+  height: 150px;
+  padding: 12px 20px;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  background-color: #f8f8f8;
+  font-size: 16px;
+  resize: none;
+}
+.saveon{
+    margin-left:46%;
+    margin-right: 40%;
+    text-align: center;
+    text-transform: uppercase;
+    background-color: orange;
+    color: white;
+}
+.otherreceipies{
+    margin-left: 30%;
+    color: purple;
+    font-size: 20px;
+}
+
+.picturesfoods {
+  float: left;
+ 
+  width: 25%;
+  padding: 10px;
+  height: 300px; /* Should be removed. Only for demonstration */
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.thai{
+    width: 100%;
+}
+.anotherpicture{
+    margin-left: 20%;
+}
+
+/*
+.row{
+    margin-left: 0%;
+}
+*/
+/*  PAGE OF BOARDS */
+.nicki{
+    float: left;
+    margin-left:10%;
+        width:20%;
+}
+.bricks{
+     margin-left:50%;
+    color: purple;
+}
+.boardertext{
+     margin-left:50%;
+}
+.rmore{
+  margin-left: 10%;
+    color: orange;
+}
+.rmored{
+    margin-left:50%;
+}
+.jesse{
+    float: left;
+    margin-left:2%;
+        width:20%;
+}
+/*
+.jessez{
+     margin-left:50%;
+    color: purple;
+}
+*/
+.jesee{
+     margin-left:30%;
+    color: purple;
+}
+.newbigin {
+  float: left;
+    margin-left: 20%;
+  width: 70%;
+  padding: 10px;
+  height: 300px;  
+}
+.dedication{
+     margin-left:30%;
+   
+}
+/*this is a page for february*/
+.febrruart{
+    color: purple;
+    font-size: 20px;
+    
+}
+.februarytweenty{
+     color: purple;
+    font-size: 16px;
+}
+
+.plate{
+    width: 70%;
+}
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 10px;
+  height: 500px; /* Should be removed. Only for demonstration */
+}
+.action {
+  float: left;
+   margin-left: 20%;
+  width: 33.33%;
+  padding: 10px;
+  height: 500px; /* Should be removed. Only for demonstration */
+}
+.actionsecond{ 
+    float: left;
+   margin-left: 15%;
+  width: 33.33%;
+  padding: 10px;
+  height: 500px; /* Should be removed. Only for demonstration */
+}
+    
+}
+/*  A PAGE OF JANUARY */
+.januaryone {
+    float: left;
+   margin-left: 15%;
+  width: 33.33%;
+  padding: 10px;
+  height: 500px; 
+ 
+}
+.januarytwoteo{
+    color: purple;
+    font-size: 30px;
+}
+.januarytwetyseven{
+    color: purple;
+    
+}
+.januarytwetwo{
+    padding-top: 20%;
+    color: purple;
+}
+
+.columntre{
+     float: left;
+   margin-left: 15%;
+  width: 33.33%;
+  padding: 10px;
+  height: 500px; 
+ 
+    
+}
+/* A PAGE OF DECEMBER */
+.decemberone{
+    color: purple;
+    font-size: 30px;
+}
+
+.columnsixt {
+  float: left;
+  width: 33.33%;
+  padding: 10px;
+  height: 500px; /* Should be removed. Only for demonstration */
+}
+.decembersecon{
+    color: purple;
+     font-size: 20px;
+}
+.columnnin{
+    float: left;
+    margin-left: 10%;
+  width: 33.33%;
+  padding: 10px;
+  height: 500px; /* Should be removed. Only for demonstration */
+}
+.columnnight{
+    float: left;
+  width: 33.33%;
+  padding: 10px;
+  height: 500px; /* Should be removed. Only for demonstration */
+}
+/*a page for november */
+.novenberninteeth{
+    color:purple;
+    font-size: 30px;
+}
+.novenberfifteenth{
+    color:purple;
+    font-size: 20px;
+}
+
+.platesec{
+    width: 90%;
+}
+/*this is the october page*/
+.octobertwete{
+        color:purple;
+    font-size: 30px;
+}
+
+/* A PAGE OF SEMPTEMBER */
+
+.semptember {
+       color:purple;
+    font-size: 30px;
+}
+.semptethi{
+     color:purple;
+    font-size: 20px;
+}
+.columnanoth{
+     float: left;
+    margin-left: 10%;
+  width: 33.33%;
+  padding: 10px;
+  height: 500px; /* Should be removed. Only for demonstration */
+}
+    
+
+
+
+
+
+
+
+
+
+/*this is the funding and suppots page*/
+.as{
+    margin-left:30%;
+}
+.individual{
+    margin-left:30%;
+    
+}
+.foralist{
+    font-weight: bold;
+     margin-left:30%;
+}
+hr.horizontalagain{
+     border: 1px solid grey;
+    width: 60%;
+}
+.grounded{
+      margin-left:30%;
+    color: purple;
+    font-size: 30px;
+}
+.programs{
+      margin-left:30%;
+}
+.help{
+    font-weight: bold;
+    margin-left:30%;
+}
+.youcan{
+        margin-left:34%;
+}
+.olwaysdonations{
+     margin-left:34%;
+    font-weight: bold;
+}
+.beaconstr{
+    margin-left:34%;
+}
+/*  A PAGE OF PRIVATE POLICY*/
+.shows{
+        margin-left:34%;
+}
+
+.identification{
+     margin-left:34%;
+    color: purple;
+    font-size: 30px;
+}
+.toinprove{
+    margin-left:37%;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+/*this is the page for the advisors */
+.many{
+    margin-left:10%;
+    margin-right: 7%;
+}
+.robinn{
+    margin-left:30%;
+    
+        
+}
+
+
+
+
+
+
+
+/*this is another page */
+
+.dwdg{
+    margin-left: 20%;
+      color:purple;
+/*       background-color: bisque;*/
+   
+}
+.smalsize{
+      margin-left: 40%;
+    font-size: 60%;
+    color:purple;
+}
+.comment{
+    color:purple;
+     margin-left: 20%;
+    font-size:20px;
+    text-transform: uppercase;
+}
+.bidbox{
+    
+    margin-left: 20%;
+  width: 75%;
+  margin-top: 6px;
+    
+}
+lable{
+    width: 90%;
+}
+input[type=text], select {
+  width: 300px;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+.save{
+    background-color: orange;
+    margin-left:40%;
+    margin-right: 50%;
+    text-align: center;
+}
+.anotheingh{
+    margin-left: 25px;
+}
+.firstnane{
+    width:90px;
+    color: purple;
+}
+
+
+/*A PAGEOF MARCH*/
+.marchtwoety{
+    color: purple;
+    font-size: 30px;
+}
+.marchsection {
+  float: left;
+  width: 33.33%;
+  padding: 10px;
+  height: 500px; /* Should be removed. Only for demonstration */
+}
+.oilone{
+    width:90%;
+}
+.marchtewetythree{
+    color: purple;
+}
+.chickpeas{
+    color: purple;
+}
+.read{
+    margin-bottom: 10%;
+    color: orange;
+}
+.lastti{
+  float: left;
+    margin-left:16%;
+  width: 33.33%;
+  padding: 10px;
+  height: 500px; /* Should be removed. Only for demonstration */
+}
+rowteo:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+/* this is the page of why traveling with oldways */
+.tours{
+    margin-left: 15%;
+    padding-top: 7%;
+}
+.four{
+    margin-left:24%;
+    color: purple;
+    font-size: 30px;
+}
+.smallgroup{
+     margin-left:24%;
+    font-weight: bold;
+}
+.olwaystrips{
+     margin-left:24%;
+}
+.pictutr{
+     margin-left:18%;
+    width: 70%;
+}
+.youall{
+     margin-left:24%;
+    font-style:italic;
+}
+/*this is cyprus page*/
+.cyprus{
+    width:40%;
+}
+.thecyprus{
+    color:purple;
+    font-size: 20px;
+    
+}
+.nighst{
+    margin-left: 6%;
+}
+.credits{
+     margin-left:4%;
+    font-style:italic;
+}
+.facepict {
+  float: left;
+  width: 20%;
+
+}
+.anna{
+    width:70%;
+}
+.clickonese{
+    margin-top: 3%;
+    color: purple;
+    margin-left: 10%;
+}
+.photogralery{
+    color: purple;
+     margin-left:10%;
+    font-size: 30px;
+}
+.clickone{
+    
+      margin-left:10%;
+}
+.columnpicture {
+  float: left;
+  width: 20%;
+  padding: 10px;
+  height: 260px; /* Should be removed. Only for demonstration */
+}
+.meting{
+    width:100%;
+}
+/*this is the insider  italian culinary*/
+.clock{
+    width: 70%;
+}
+.yellowlady{
+    float: left;
+       width: 10%;
+}
+.renowned{
+    margin-left: 35%;
+    margin-right: 20%;
+}
+.ouritalian{
+    font-weight: bold;
+}
+.then{
+    margin-left:23%;
+}
+.parm{
+     margin-left:23%;
+    font-weight: bold;
+    
+}
+.depart{
+     margin-left:23%;
+}
+.galery{
+    margin-left:10%;
+    font-size: 40px;
+    color:purple;
+}
+.clickon{
+    margin-left: 10%;
+    margin-right: 30%;
+}
+.aninsider{
+      margin-left: 10%;
+    font-size: 15px;
+    color: purple;
+}
+.difre {
+  float: left;
+  width: 20%;
+  padding: 10px;
+  height: 300px; /* Should be removed. Only for demonstration */
+}
+.buget{
+    width:100%;
+
+}
+.nextthre{
+    width: 50%;
+}
+.sponge{
+  float: left;
+  width: 20%;
+  padding: 10px;
+  height: 300px; /* Should be removed. Only for demonstration */
+}
+.volum{
+    float: left;
+  width: 20%;
+  padding: 10px;
+  height: 300px; /* Should be removed. Only for demonstration */
+}
+.people{
+     float: left;
+  width: 20%;
+  padding: 10px;
+  height: 300px; /* Should be removed. Only for demonstration */
+}
+.blueone{
+    float: left;
+  width: 20%;
+  padding: 10px;
+  height: 300px; /* Should be removed. Only for demonstration */
+}
+.wods {
+  float: left;
+  width: 20%;
+  padding: 10px;
+  height: 300px; /* Should be removed. Only for demonstration */
+}
+.olive{
+    float: left;
+  width: 20%;
+  padding: 10px;
+  height: 300px;
+}
+.lastp{
+    float: left;
+  width: 20%;
+  padding: 10px;
+  height: 300px;
+}
+/*their is a page of sicily */
+.twopicture{
+      float: left;
+  width: 33.33%;
+  padding: 10px;
+  height: 360px; 
+}
+.twocapls{
+    width: 100%;
+}
+.onthis{
+    padding-top: 50%;
+  padding: 10px;
+  height: 360px; 
+}
+.twofpicture{
+    
+  padding-top: 50%;
+  padding: 10px;
+    height: 360px;
+    margin-left: 90%;
+}
+.down{
+ padding-top: 40%;
+margin-right: 10%;
+}
+.downone{
+     
+margin-right: 10%;
+}
+.register{
+    font-weight: bold;
+}
+.sundayeight{
+    font-size:15px;
+     font-weight: bold;
+}
+.twosection{
+  float: left;
+  width: 33.33%;
+  padding: 10px;
+  height: 300px; 
+}
+.vegetablese{
+    width: 100%;
+}
+
+.line{
+     float: left;
+  width: 33.33%;
+  padding: 10px;
+  height: 300px; 
+}
+.rowsect{
+    padding-top: 1%;
+    margin-left: 17%;
+}
+.rowsecon{
+      padding-top: 1%;
+    margin-left: 22%;
+}
+.insideone{
+    margin-left: 20%;
+}
+.vegetableseonbe{
+    width:80%;
+}
+.anohre{
+    padding-top:10%;
+}
+.smallcolum{
+    width: 20%;
+}
+/*
+.graphic{
+    width: 400px;
+}
+*/
+.anotherr{
+    float: left;
+  width: 20%;
+  padding: 10px;
+  height: 300px; 
+}
+.tangerine{
+    width: 100%;
+}
+.seont{
+    float: left;
+  width: 20%;
+  padding: 10px;
+  height: 300px; 
+    
+}
+.ride{
+    float: left;
+  width: 20%;
+  padding: 10px;
+  height: 300px; 
+    
+}
+.placesone{
+     float: left;
+  width: 20%;
+  padding: 10px;
+  height: 300px; 
+}
+.certification{
+     float: left;
+  width: 20%;
+  padding: 10px;
+  height: 300px; 
+    
+}
+.littleshrimp{
+float: left;
+  width: 20%;
+  padding: 10px;
+  height: 300px; 
+    
+}
+/*this is  andalisia page*/
+.tower{
+    margin-left:10%;
+    width: 60%;
+}
+.smiling{
+     margin-left:70%;
+    width:106px;
+}
+.leftroe{
+    margin-left: 33%;
+}
+.somethings{
+    float: left;
+  width: 10%;
+  padding: 10px;
+  height: 130px; 
+}
+.smilinf{
+    width: 103px;;
+}
+.large{
+    float: left;
+    margin-left: 33%;
+  width: 70%;
+  padding: 10px;
+  height: 130px; 
+}
+.loak{
+       float: left;
+  width: 60%;
+  padding: 10px;
+  height: 130px; 
+}
+.novem{
+    margin-left: 10%;
+}
+.exploration{
+       margin-left: 34%;
+    margin-top:20%;
+    width:60%;
+        font-size: 20px;
+    color: purple;
+    font-weight: bold;
+    
+}
+.novemnertwelve{
+       margin-left: 34%;
+    font-size: 20px;
+    
+}
+.dife{
+    margin-left: 34%;
+}
+.wine{
+    width:60%;
+}
+.monday{
+   
+    font-weight: bold;
+} 
+.columnano{
+    padding-top: 50%;
+  padding: 10px;
+    height: 360px;
+    margin-left: 10%;
+    
+}
+.columnagain{
+     float: left;
+  width: 40%;
+  padding: 10px;
+  height: 500px;
+}
+.flower{
+    width: 500px;
+}
+.photosection{
+    margin-left: 10%;
+    margin-top: 70%;
+    color: purple;
+    font-size: 30px;
+}
+.moreinformation{
+      margin-left: 10%;
+    margin-right:10%;
+}
+.spaingalerie{
+    margin-left:10%;
+    color:purple;
+    font-size:20px;
+}
+.lot{
+    float: left;
+  width: 20%;
+  padding: 10px;
+  height: 300px;
+}
+.statue{
+    width:100%;
+}
+.moreon{
+    float: left;
+  width: 20%;
+  padding: 10px;
+  height: 300px;
+}
+.greeng{
+     float: left;
+  width: 20%;
+  padding: 10px;
+  height: 300px;
+}
+.domato{
+     float: left;
+  width: 20%;
+  padding: 10px;
+  height: 300px;
+}
+/*its a liguaria page*/
+.liguaria{
+    margin-left:10%;
+    width:60%;
+}
+.olwaysliguaria{
+      margin-left:34%;
+    margin-right:20%;
+    color: purple;
+    font-size: 28px;
+}
+.river{
+    font-weight: bold;
+     margin-left:34%;
+}
+.rapalo{
+    font-weight: bold;
+     margin-left:34%;
+    margin-right:20%;
+}
+.leftone{
+    margin-left: 34%;
+}
+.threesections{
+    float: left;
+  width: 10%;
+  padding: 10px;
+/*  height: 300px;*/
+}
+.shorhair{
+    width: 100%;
+}
+.threetsections{
+     float: left;
+  width: 60%;
+
+}
+.oneparagraphon{
+    margin-left: 25%;
+    margin-top: 20%;
+    width: 66%;
+}
+.onepara{
+    margin-left: 14%;
+}
+.intinerary{
+    color:purple;
+    font-size: 20px;
+}
+.bevenuto{
+    font-weight: bold;
+}
+.coridor{
+    margin-left: 20%;
+    width:50%;
+}
+.columnfofo{
+     float: left;
+    margin-left: 11%;
+  width: 20%;
+  padding: 10px;
+  height: 300px; /* Should be removed. Only for demonstration */
+}
+.paragrs{
+    margin-top: 55%;
+    margin-left: 37%;
+}
+.tryandon{
+  
+    width: 80%;
+}
+.daytrip{
+    
+    font-weight: bold;
+}
+.photogallery{
+    color: purple;
+    margin-left: 10%;
+    font-size:30px;
+}
+.liguriaone{
+    color: purple;
+    margin-left: 10%;
+       font-size:12px;
+}
+.kitchen{
+    float: left;
+  width: 20%;
+  padding: 10px;
+  height: 300px; 
+}
+.table{
+    margin-left:10%;
+    width: 80%;
+}
+.beach{
+     float: left;
+  width: 20%;
+  padding: 10px;
+  height: 300px; 
+}
+.church{
+    float: left;
+  width: 20%;
+  padding: 10px;
+  height: 300px; 
+}
+.oil{
+        float: left;
+  width: 20%;
+  padding: 10px;
+  height: 300px; 
+}
+.explain{
+    float: left;
+  width: 20%;
+  padding: 10px;
+  height: 300px; 
+}
+.chair{
+    float: left;
+  width: 20%;
+  padding: 10px;
+  height: 300px; 
+}
+/*A PAGE OF GREECE*/
+.cheff{
+    color:purple;
+    text-transform: uppercase;
+    margin-left: 30%;
+    margin-right:40%;
+    font-size:20px;
+}
+.thesaloniki{
+    margin-left:5%;
+    width:70%;
+}
+.smallone{
+     float: left;
+  width: 10%;
+  padding: 10px;
+ 
+}
+.smalltwo{
+     float: left;
+  width: 67%;
+  padding: 10px;
+}
+.alady{
+   margin-left: 28%;
+}
+.beautifullady{
+    width: 100%;
+}
+.james{
+    margin-left:5%;
+}
+.athens{
+    float: left;
+    margin-left: 10%;
+  width: 60%;
+  padding: 10px;
+}
+.acropoli{
+    width: 100%;
+}
+.oleana{
+    text-transform: uppercase;
+    color: purple;
+    margin-top: 5%;
+    font-size:20px;
+  margin-left: 40%;
+}
+.dayone{
+    margin-left: 30%;
+}
+.kalos{
+     float: left;
+  width:40%;
+  padding: 10px;
+}
+.dayonee{
+    font-weight: bold;
+}
+.picfe{
+    width: 90%;
+}
+.anithe{
+      margin-left: 30%;
+}
+.museum{
+    margin-left: 10%;
+      font-weight: bold;
+}
+.mesuemtwo{
+    margin-left: 10%;
+}
+.rowsecons{
+      margin-left: 30%;
+}
+.alone{
+     width: 60%;
+  padding: 10px;
+}
+.coocking{
+     margin-left: 10%;
+/*    margin-right: 30%;*/
+}
+.cookingclass{
+     font-weight: bold;
+}
+.rowthie{
+    margin-left: 35%;
+}
+.shopping{
+     margin-left: 20%;
+    font-weight: bold;
+}
+.shopingone{
+      
+  width: 33.33%;
+  padding: 10px;
+}
+.newnwn{
+    margin-left: 27%;
+     width: 50%;
+  padding: 10px;
+}
+
+.eight{
+    margin-left: 39%;
+      font-weight: bold;
+}
+.departures{
+     margin-left: 39%;
+}
+.photogalery{
+    color: purple;
+    font-size:30px;
+    margin-left: 10%;
+}
+.greece{
+    color: purple;
+    margin-left: 10%;
+    text-transform: uppercase;
+}
+.openbottles{
+    float: left;
+  width: 20%;
+  padding: 10px;
+}
+.winekey{
+    width: 100%;
+}
+.sack{
+     float: left;
+  width: 20%;
+  padding: 10px;
+}
+.factory{
+    float: left;
+  width: 20%;
+  padding: 10px;
+}
+.fourwoman{
+     float: left;
+  width: 20%;
+  padding: 10px;
+}
+.fish{
+     float: left;
+  width: 20%;
+  padding: 10px;
+}
+.beach{
+      float: left;
+  width: 20%;
+  padding: 10px;
+    
+}
+/*THERE IS ANOTHER PAGE OF EMILIA ROMANGN*/
+.night{
+    margin-left: 20%;
+    width: 60%;
+}
+.oval{
+    width: 100%;
+}
+.thrse{
+     float: left;
+  width: 10%;
+  padding: 10px;
+}
+.sect{
+    float: left;
+    margin-left:10%;
+  width: 53%;
+  padding: 10px;
+}
+.cow{
+    margin-top: 19%;
+    margin-left: 17%;
+    width: 60%;
+}
+.twosect{
+    margin-left: 20%;
+}
+
+.ani{
+    margin-left: 30%;
+    margin-top: 4%;
+}
+
+.bab{
+   
+      float: left;
+  width: 40%;
+}
+
+.daytfi{
+    margin-left: 10%;
+    font-weight: bold;
+
+}
+.thesixth{
+      float: left;
+    margin-left: 26%;
+  width: 50%;
+  padding: 10px;
+}
+.sixth{
+    margin-left:20%;
+}
+.traditional{
+    font-weight: bold;
+    
+}
+.photocalery{
+    color:purple;
+    margin-left: 10%;
+    font-size: 30px;
+}
+.smalle{
+    color:purple;
+    margin-left: 10%;
+    font-size: 10px;
+}
+.bigroa{
+     float: left;
+  width: 20%;
+  padding: 10px;
+}
+.stra{
+    width: 90%;
+}
+.bigcheese{
+    float: left;
+  width: 20%;
+  padding: 10px;
+}
+.whiter{
+    float: left;
+  width: 20%;
+  padding: 10px;
+}
+
+.bah{
+    width: 90%;
+
+}
+.out{
+  float: left;
+  width: 20%;
+  padding: 10px;
+ 
+}
+.orangebuilding{
+    float: left;
+  width: 20%;
+  padding: 10px;
+ 
+    
+}
+.twola{
+     float: left;
+  width: 20%;
+  padding: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+.dis{
+    float: left;
+  width: 31%;
+
+}
+.ama{
+ 
+    width: 40%;
+}
+.lasi{
+    margin-left: 20%;
+    width: 100px;
+}
+.form{
+        padding-top: 20%;
+    margin-left: 20%;
+    margin-right: 19%;
+}
+.itinery{
+    margin-top: 5%;
+    color: purple;
+    text-transform: uppercase;
+    margin-left: 20%;
+    font-size:20px;
+}
+.bevento{
+    font-weight: bold;
+    margin-left: 20%;
+}
+.arrivaled{
+    margin-left: 20%;
+    margin-right:15%;
+}
+.daythree{
+     font-weight: bold;
+}
+.wida{
+     float: left;
+  width: 51%;
+  padding: 10px;
+}
+.beacon{
+    width: 70%;
+}
+.daysix{
+       margin-left: 12%;
+     font-weight: bold;
+}
+.modena{
+margin-left: 12%;
+    margin-right: 16%;
+    
+}
+.half{
+    margin-left: 12%;
+}
+.halfday{
+     margin-left: 12%;
+    margin-right: 16%;
+}
+.smalltitle{
+    color:purple;
+    margin-left:11%;
+}
+.strong{
+  float: left;
+  width:20%;
+  padding: 10px;
+}
+.morr{
+    margin-left: 15%;
+}
+.stret{
+    width: 90%;
+}
+.cicle{
+    float: left;
+  width:22%;
+}
+.man{
+    margin-top: 20%;
+     margin-left: 15%;
+    
+}
+.stron{
+    margin-top: 20%;
+     float: left;
+  width:20%;
+  padding: 10px;
+}
+.examplw{
+    margin-left: 15%;
+    margin-top: 40%;
+}
+.trg{
+     float: left;
+  width:20%;
+}
+.neextrow{
+     margin-left: 15%;
+    margin-top: 60%;
+}
+.plan{
+
+     float: left;
+  width:20%;
+  padding: 10px;
+}
+.nestone{
+    margin-left: 90%;
+}
+.balcony{
+      float: left;
+    margin-top: 30%;
+  width: 33.33%;
+  padding: 10px;
+}
+.balc{
+    float: left;
+  width:20%;
+  padding: 10px;
+}
+.sectionsfi{
+  margin-top: 80%;
+margin-left:15%;
+}
+.lastma{
+     margin-top: 100%;
+    margin-left:15%;
+}
+.twolad{
+      float: left;
+    margin-top: 5%;
+  width:20%;
+  padding: 10px;
+}
+.anoa{
+    background-color: red;
+}
+/*THIS IS THE TURKEY PAGE*/
+.picturefirst{
+    float: left;
+  width: 33.33%;
+  padding: 10px;
+}
+.turkey{
+    width: 100%;
+}
+/*
+.itineracy{
+  
+    color: purple;
+    font-size: 20px;
+}
+*/
+.welcometurkeu{
+    font-weight: bold;
+}
+.sectionm{
+    width: 40%;
+}
+.te{
+   padding-top: 25%;
+  
+}
+.title{
+    width: 66%;
+}
+.itineracy{
+    color: purple;
+      font-size: 20px;
+}
+.ancient{
+    margin-left:20%;
+      font-weight: bold;
+}
+.kick{
+     margin-left:20%;
+    margin-right: 14%;
+}
+.road{
+     margin-left:20%;
+      font-weight: bold;
+}
+.photocallery{
+    color: purple;
+    margin-left:10%;
+    font-size: 30px;
+}
+.turkeyculinais{
+      color: purple;
+    margin-left:10%;
+    font-size: 10px;
+}
+.gradma{
+     float: left;
+  width: 20%;
+  padding: 10px;
+}
+.knitting{
+    width: 90%;
+}
+.smallboats{
+    float: left;
+  width: 20%;
+  padding: 10px;
+}
+.bluechair{
+     float: left;
+  width: 20%;
+     padding: 10px;
+}
+.cookingone{
+    float: left;
+  width: 20%;
+  padding: 10px;
+}
+.hajia{
+ float: left;
+  width: 20%;
+  padding: 10px;
+
+}
+/*PUGLIA PAGE*/
+.award{
+     float: left;
+  width: 20%;
+  padding: 10px;
+}
+
+.food{
+    width: 500px;
+}
+.anothertext{
+    padding-top: 30%;
+    margin-right: 9%;
+}
+.dayaga{
+    font-weight: bold;
+    
+}
+.visit{
+    margin-left: 23%;
+}
+.photos{
+    font-style: italic;
+       margin-left: 23%;
+}
+.pugliacul{
+    color: purple;
+     margin-left: 10%;
+}
+
+.lightblu{
+     float: left;
+  width: 20%;
+  padding: 10px;
+}
+.light{
+    width:100%;
+}
+
+.wire{
+    float: left;
+  width: 20%;
+  padding: 10px;
+}
+.cultiredance{
+    float: left;
+  width: 20%;
+  padding: 10px;
+}
+
+.whbulding{
+      float: left;
+  width: 20%;
+  padding: 10px;
+    
+}
+.grass{
+     float: left;
+  width: 20%;
+  padding: 10px;
+}
+.whitethi{
+    float: left;
+  width: 20%;
+  padding: 10px;
+}
+
+
+
+/*ITS A MEDRID PAGE*/
+.somepa{
+     float: left;
+  width: 33.33%;
+  padding: 10px;
+}
+.lions{
+    width: 100%;
+}
+.iti{
+    margin-top:10%;
+    color: purple;
+    font-size: 20px;
+}
+.madrid{
+    width: 36%;
+    font-weight: bold;
+}
+.open{
+    margin-right: 20%;
+}
+.oldmadrit{
+     font-weight: bold;
+     
+}
+.madriddnov{
+    margin-left: 10%;
+}
+.restorant{
+    float: left;
+  width: 20%;
+  padding: 10px;
+}
+.pink{
+    width: 100%;
+}
+.cellphone{
+    float: left;
+  width: 20%;
+  padding: 10px;
+}
+.stone{
+    float: left;
+  width: 20%;
+  padding: 10px;
+}
+.kitchen{
+ float: left;
+  width: 20%;
+  padding: 10px;
+}
+.whitedoor{
+    float: left;
+  width: 20%;
+  padding: 10px;
+}
+.dance{
+    float: left;
+  width:20%;
+  padding: 10px;
+}
+.cheese{
+    float: left;
+  width:20%;
+  padding: 10px;
+}
+.dining{
+     float: left;
+  width: 20%;
+  padding: 10px;
+}
+/*THIS IS THE SECRET PAGE*/
+.firstorg{
+    float: left;
+  width:30%;
+  padding: 10px;
+}
+.worder{
+    width: 100%;
+}
+.itineryat{
+    padding-top: 20%;
+}
+.firstday{
+    font-weight: bold;
+}
+.delegrates{
+    margin-right: 20%;
+}
+.photosby{
+    margin-left: 19%;
+    font-style:italic;
+}
+.whitearc{
+     float: left;
+  width: 20%;
+  padding: 10px;
+}
+.arc{
+    width: 100%;
+}
+.hills{
+     float: left;
+  width: 20%;
+  padding: 10px;
+}
+.chef{
+    float: left;
+  width: 20%;
+  padding: 10px;
+}
+.bottle{
+    float: left;
+  width: 20%;
+  padding: 10px;
+}
+.glasses{
+     float: left;
+  width: 20%;
+  padding: 10px;
+    
+}
+/*THE TURKEY CULINARY PAGE*/
+.awardwinning{
+    float: left;
+  width: 30%;
+  padding: 10px;
+}
+.super{
+    width:100%;
+}
+.morein{
+    padding-top: 23%;
+    margin-right: 20%;
+    margin-left: 18%;
+}
+.oneee{
+    font-weight: bold;
+    margin-left: 20%;
+}
+.trave{
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.photoes{
+    margin-left: 20%;
+    font-style:italic;
+}
+.turkey{
+     margin-left: 10%;
+    color: purple;
+    font-size: 10px;
+}
+.foodon{
+   float: left;
+  width: 20%;
+  padding: 10px;
+}
+.ravika{
+    width:100%;
+}
+.pepers{
+    float: left;
+  width: 20%;
+  padding: 10px;
+}
+.cutting{
+     float: left;
+  width: 20%;
+  padding: 10px;
+}
+.pothat{
+ float: left;
+  width: 20%;
+  padding: 10px;
+}
+
+.dollart{
+    float: left;
+  width: 20%;
+  padding: 10px;
+}
+/*THE NORMADY PAGE*/
+.ring{
+    margin-left: 20%;
+}
+.tes{
+    float: left;
+  width: 30%;
+  padding: 10px;
+}
+.castle{
+    width: 400px;
+}
+.itinerary{
+    margin-left: 5%;
+    padding-top: 31%;
+    color:purple;
+    font-size: 23px;
+}
+.dayon{
+    margin-left: 5%;
+    font-weight: bold;
+}
+.normandy{
+    margin-left: 10%;
+    color: purple;
+}
+.clouds{
+    float: left;
+  width: 20%;
+  padding: 10px;
+}
+.roof{
+    width: 100%;
+}
+.grandpa{
+      float: left;
+  width: 20%;
+  padding: 10px;
+}
+.redroof{
+    float: left;
+  width: 20%;
+  padding: 10px;
+}
+.forthe{
+     float: left;
+  width: 20%;
+  padding: 10px;
+}
+.sparagus{
+     float: left;
+  width: 20%;
+  padding: 10px;
+    
+}
+.resta{
+    float: left;
+  width: 20%;
+  padding: 10px;
+}
+/*ITS THE MAROCCO PAGE*/
+.mediterranea{
+    float: left;
+  width: 30%;
+  padding: 10px;
+}
+.them{
+    font-size: 16px;
+}
+.scarf{
+    width: 100%;
+}
+.itinary{
+   padding-top: 26%;
+    margin-left: 20%;
+    color: purple;
+    font-size: 20px;
+    
+}
+.dayones{
+    margin-left: 20%;
+    font-weight: bold;
+     font-size: 16px;
+}
+.travelll{
+    margin-left: 20%;
+    font-size: 16px;
+    margin-right: 17%;
+}
+.moroc{
+     font-size: 16px;
+    margin-left: 10%;
+    color: purple;
+}
+.scrf{
+    float: left;
+  width: 20%;
+  padding: 10px;
+}
+.bl{
+    width:100%;
+}
+.colorful{
+    float: left;
+  width: 20%;
+  padding: 10px;
+}
+.event{
+    float: left;
+  width: 20%;
+  padding: 10px;
+}
+/*INSTABUL CULINARY*/
+.turkishc{
+    float: left;
+  width: 30%;
+  padding: 10px;
+}
+.tur{
+      font-size: 16px;
+}
+.hija{
+    width:100%;
+}
+.itineraryat{
+    margin-left: 19%;
+  padding-top:24%;
+    font-size: 2opx;
+    color: purple;
+    
+}
+.dayss{
+    margin-left: 19%;
+    font-weight: bold;
+      font-size: 16px;
+    
+}
+.travelers{
+    margin-left: 19%;
+      font-size: 16px;
+    margin-right: 19%;
+}
+.close{
+     float: left;
+  width: 20%;
+  padding: 10px;
+}
+.dol{
+    width: 100%;
+}
+.somethingcreame{
+     float: left;
+  width: 20%;
+  padding: 10px;
+}
+.blodhair{
+    float: left;
+  width: 20%;
+  padding: 10px;
+}
+.church{
+    float: left;
+  width: 20%;
+  padding: 10px;
+}
+/* TUSCANY FILE*/
+.nthing{
+    margin-left: 25%;
+}
+.trav{
+    float: left;
+  width: 35%;
+  padding: 10px;
+    font-size: 16px;
+}
+.bigt{
+    width:100%;
+}
+.firstda{
+     padding-top: 33%;
+    font-weight: bold;
+    font-size: 16px;
+    margin-left: 1%;
+}
+.arive{
+    margin-right: 20%;
+}
+.seco{
+     font-weight: bold;
+    font-size: 16px;
+    margin-left: 1%;
+}
+.july{
+    font-size: 16px;
+    margin-left: 10%;
+    color: purple;
+}
+.redt{
+    float: left;
+  width: 20%;
+  padding: 10px;
+}
+.chur{
+    width: 100%;
+}
+.hands{
+    float: left;
+  width: 20%;
+  padding: 10px;
+}
+.men{
+    float: left;
+  width: 20%;
+  padding: 10px;
+    
+}
+/*IT'S A UMBRIA PAGE*/
+.weeklong{
+    float: left;
+  width: 30%;
+  padding: 10px;
+ margin-left: 2%;
+}
+.margarete{
+    width: 500px;
+}
+.ata{
+    padding-top: 32%;
+    color: purple;
+    margin-left: 20%;
+}
+.benevenuto{
+    font-weight: bold;
+    font-size: 16px;
+    margin-left: 20%;
+}
+.brufani{
+    font-size: 16px;
+    margin-left: 20%;
+    margin-right: 10%;
+}
+.marchte{
+      font-size: 16px;
+    margin-left: 10%;
+    color: purple; 
+}
+.oneeee{
+    width: 100%;
+}
+.ficolumn{
+     float: left;
+  width: 20%;
+  padding: 10px; 
+}
+.drytrees{
+  float: left;
+  width: 20%;
+  padding: 10px; 
+}
+.greenwood{
+     float: left;
+  width: 20%;
+  padding: 10px; 
+}
+.ar{
+     float: left;
+  width: 20%;
+  padding: 10px; 
+}
+.skyb{
+    float: left;
+  width: 20%;
+  padding: 10px; 
+}
+.flowe{
+     float: left;
+  width: 20%;
+  padding: 10px; 
+}
+/*THE PAGE OF PUGLIA, ITALY 2016*/
+.de{
+    margin-left:27%;
+}
+.innovember{
+     float: left;
+  width: 40%;
+  padding: 10px;
+}
+.twosi{
+    font-size: 16px;
+}
+.casle{
+    width: 400px;
+}
+.intineraryat{
+    padding-top: 42%;
+    color: purple;
+    font-size: 20px;
+    margin-left: 1%;
+}
+.nine{
+    margin-left: 1%;
+    font-size: 16px;
+    font-weight: bold;
+}
+.rtr{
+    margin-left: 1%;
+    font-size: 16px;
+    margin-right: 20%;
+}
+.piglia{
+    margin-left: 10%;
+    color: purple;
+    font-size: bold;
+}
+.gradmawit{
+  float: left;
+  width: 20%;
+  padding: 10px;
+}
+.grand{
+    width:100%;
+}
+
+.blub{
+    float: left;
+  width: 20%;
+  padding: 10px;
+}
+.castle{
+    float: left;
+  width: 20%;
+  padding: 10px;
+}
+.stereo{
+    float: left;
+  width: 20%;
+  padding: 10px;
+}
+/*sicily 2005*/
+.some{
+    margin-left: 30%;
+}
+.history{
+     float: left;
+  width: 40%;
+  padding: 10px;
+}
+
+.palace{
+    width:100%;
+}
+.sicilyhistory{
+    font-size:16px;
+}
+.gland{
+    padding-top: 20%;
+    color:purple;
+    font-size: 22px;
+    margin-left:30%;
+}
+.tryign{
+    font-weight: bold;
+    margin-left:30%;
+}
+.hotl{
+     margin-left:30%;
+    margin-right: 10%;
+}
+.socilytrip{
+    font-size: 16px;
+    color: purple;
+    margin-left:10%
+}
+.golddd{
+    float: left;
+  width: 20%;
+  padding: 10px;
+}
+.col{
+    width: 100%;
+}
+.grayhair{
+      float: left;
+  width: 20%;
+  padding: 10px;
+}
+.threemen{
+    float: left;
+  width: 20%;
+  padding: 10px;
+}
+.hatmen{
+    float: left;
+  width: 20%;
+    padding: 10px;
+}
+/* IT IS THE SCIENCE OF A MEDIA PAGE*/
+.anothpich{
+    background: url(images/goup.jpg);
+     background-size: cover;
+    background-position: center;
+    height:500px;
+}
+.linking{
+    color: white;
+    font-size: 15px;
+    margin-left:3%;
+}
+.cart{
+      margin-left: 3%;
+/*      margin-right: 70%;*/
+}
+.cart a{
+    margin-top: 10%;
+    color: purple;
+    text-transform: uppercase;
+   
+}
+.titke{
+    margin-top: 20%;
+    width: 50%;
+}
+.thro {
+    float: left;
+  width: 30%;
+  padding: 10px;
+ 
+    
+}
+.nes{
+     float: left;
+  width: 26%;
+  padding: 10px;
+}
+.lin a{
+    color: purple;
+    text-transform: uppercase;
+    width: 167px;
+    font-size: 16px;
+ 
+}
+
+.lin a:hover{
+   background-color: purple;
+    color: white;
+}
+.welcome{
+/*    padding-top: 20%;*/
+     text-transform: uppercase;
+    color: purple;
+    font-size: 20px;
+}
+.sen{
+    padding-top: 9%;
+    text-transform: uppercase;
+    color: purple;
+    font-size: 20px;
+}
+.titke{
+    width: 100%;
+}
+.fidding{
+    margin-top: 5%;
+    margin-left:26%;
+    margin-right: 10%;
+    font-size: 15px;
+}
+.fin{
+       font-size: 16px;
+}
+.scientist{
+    color: purple;
+    font-size: 20px;
+    font-weight: bold;
+}
+.joel{
+    font-weight: bold;
+}
+.national{
+    
+       font-size: 16px;
+
+}
+.diets{
+    font-weight: bold;
+}
+.overal{
+     float: left;
+  width: 46%;
+  padding: 10px;
+ 
+}
+.overallh{
+    font-weight: bold;
+    font-size: 16px;
+}
+.two{
+    width: 100%
+}
+.myths{
+    margin-left: 31%;
+  width: 50%;
+  padding: 10px;
+}
+/* IT S THE OLDWAYS CART PAGE*/
+.thecart{
+/*     background: url(images/cart.png);*/
+     background: url(images/cart.png);
+     background-size: cover;
+    background-position: center;
+    height:500px;
+}
+.grocery{
+    padding-top:  3%;
+    color: purple;
+    margin-right: 20%;
+    font-style:italic;
+    font-size: 25px;
+}
+.olfwa{
+   color: purple;
+    font-size: 16px;
+}
+.theos{
+    float: left;
+  width: 50%;
+  padding: 10px;
+} 
+
+.makes{
+    font-size: 20px;
+}
+.acess{
+    margin-left: 29%;
+
+   
+}
+.acess a{
+     background-color: orange;
+    text-transform: uppercase;
+    font-size: 30px;
+    color: white;
+}
+.graphicaha{
+    margin-top: 10%;
+    font-size: 16px;
+    margin-right:10%;
+}
+.ground{
+    color: orange;
+   
+}
+.worth{
+    color: purple;
+    font-size: 20px;
+}
+.shopo{
+     float: left;
+    margin-left: 20%;
+  width: 50%;
+  padding: 10px;
+}
+.shop{
+    width: 100%;
+}
+.eating{
+    margin-left: 25%; 
+    margin-right: 14%;
+}
+.abigtable{
+    margin-left: 25%;
+    margin-right: 17%;
+}
+.vefe{
+    width: 100%;
+}
+.contast{
+     margin-left: 25%; 
+    color: purple;
+    font-size: 25px;
+}
+.olst{
+    margin-left: 20%;
+  width: 60%;
+  padding: 10px;
+    font-size: 16px;
+  
+}
+.lis{
+    color: orange;
+}
+/*THIS IS A COMMON GOUND PAGE*/
+.homeeact{
+    padding-top: 10px;
+    color: grey;
+    margin-left: 10%;
+}
+.comongr{
+    color: purple;
+    margin-left: 10%;
+    font-size: 30px;
+}
+.comonfiding{
+    width: 100%;
+    padding-top: 20%;
+}
+.statement{
+       padding-top: 20%;
+    color:purple;
+    font-size: 20px;
+}
+.ano{
+     float: left;
+    padding-top: 30%;
+  width: 30%;
+  padding: 10px;
+}
+.moreplans{
+     float: left;
+  width: 70%;
+  padding: 10px;
+    font-size: 16px;
+}
+.nuts{
+    font-weight: bold;
+}
+.theoveral{
+    font-style: italic;
+}
+.good{
+    font-size: 16px;
+}
+.legums{
+    font-size: 18px;
+}
+.scins{
+    
+    color:purple;
+    font-size: 25px;
+}
+.chairxs{
+    font-weight: bold;
+}
+.davids{
+    font-weight: bold;
+}
+.signa{
+    color: purple;
+    font-size: 20px;
+}
+/*THIS IS THE ELEVEN TIPS file*/
+.lin{
+  float: left;
+  width: 20%;
+  padding: 10px;
+}
+.express{
+    color: purple;
+    padding-top: 23%;
+    font-weight: bold;
+}
+.line{
+     width: 30%;
+    font-size: 20px;
+/*    font-weight: bold:*/
+}
+.consumers{
+     font-size: 17px;
+}
+.publichealth{
+    padding-top: 30%;
+    margin-left: 25%;
+    margin-right: 16%;
+    font-size: 17px;
+}
+.pas{
+    margin-left: 20%;
+     width: 63%;
+  padding: 10px;
+}
+.monica{
+    font-weight: bold;
+    color: black;
+}
+ol li{
+    color: black;
+}
+hr.yellow{
+    border: 2px solid orange;
+}
+.whoare{
+  color: purple;
+font-size: 20px;
+font-weight:bold;
+}
+.lookat{
+  
+font-size: 17px;
+}
+.animal{
+    font-weight: bold;
+    font-style:italic; 
+}
+.foodre{
+     font-weight: bold;
+}
+.reco{
+    margin-left:5%;
+}
+.fod{
+    font-size: 17px;
+}
+.picturesecon{
+      float: left;
+  width: 34%;
+  padding: 10px;
+ 
+}
+.image9{
+    width:120px;
+    height: 20%;
+    margin-left:40px;
+    
+}
+.scien{
+    width: 82%;
+   
+}
+hr grey{
+    color: grey;
+}
+
+
+.pink a {
+    margin-left: 0%;
+    margin-top:0px;
+    color: red;
+}
+
+.nwe{
+margin-right: 59%;
+    float: left;
+}
+
+/*IS A PAGE OF SPEKER VISEO PRESENTATION*/
+.restapeople{
+    background: url(images/bteam.png);
+     background-size: cover;
+    background-position: center;
+    height:500px;
+}
+.hardcover{
+    width: 80%;
+}
+.com{
+    padding-top: 10%;
+}
+.whilewe{
+    font-style: italic;
+}
+.twothousent{
+    font-weight: bold;
+}
+.moret{
+    float: left;
+  width: 70%;
+  padding: 10px;
+}
+.welcomeover{
+    font-weight: bold;
+}
+
+.enen{
+     margin-left: 0%;
+}
+.sarab{
+      font-style: italic;
+    color: black;
+}
+.normla a{
+    color: orange;
+}
+.walte{
+    font-style:italic;
+}
+.makingth{
+    font-weight: bold;
+}
+.dan{
+     font-style:italic;
+}
+.presentation{
+    font-weight: bold;
+}
+.video a{
+     width: 100%;
+    color: orange;
+}
+.panel{
+    font-weight: bold;
+}
+.un a{
+    color:red;
+}
+/*
+.se{
+    width: 30px;
+}*/
+/*
+a:link, a:visited {
+    margin-top:0px;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+    margin-left: 20%;
+ 
+}*/
